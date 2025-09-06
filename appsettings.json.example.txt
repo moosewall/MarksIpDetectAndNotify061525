@@ -1,0 +1,9 @@
+{
+    "senderAddress_note": "Typically a gmail account to send from",
+    "senderAddress": "testsender@gmail.com", 
+
+    "loginText_note": "Google App Password for the senderAddress gmail account.",
+    "loginText": "aaaa bbbb cccc dddd",
+
+    "recipAddress": "testreceiver@gmail.com"
+}

@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# python3 /home/mw/marks_src/MarksIpDetectAndNotify061525_src/MarksIpDetectAndNotify061525.py
+
+/usr/local/bin/python3 /home/mw/MarksFiles/MarksIpDetectAndNotify061525_src/MarksIpDetectAndNotify061525.py
+
+# /home/mw/marks_src/MarksIpDetectAndNotify061525_src/MarksRunPy.sh
